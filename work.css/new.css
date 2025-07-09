@@ -1,0 +1,77 @@
+.navi{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.flexnav{
+  display: flex;
+  gap: 25px;
+  list-style: none;
+  font-size: 1.5em;
+  color: bisque;
+  position: absolute;
+  margin-left: 65%;
+}
+.navi li a{
+  text-decoration: none;
+}
+
+.bac> {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+.navi h1{
+  font-size: 45px;
+  font-weight: 800;
+}
+>navi ul li{
+  list-style: none;
+}
+/* word color */
+.word{
+  color: #37c104;
+}
+/* navigation color */
+.navco{
+  color: #37c104;
+  font-size: 1.2em;
+}
+/* button */
+.button{
+  background-color: #37c104;
+  font-size: 1em;
+  padding: 5px;
+  border-radius: 15px;
+}
+.h1{
+ margin-left: 15%;
+}
+.flexi{
+  display: flex;
+  justify-content: space-between;
+  margin: 0 35px 0 200px;
+}
+.header{
+  background-image: url('../images/developer.png'), url('../images/header_bg.png');
+  background-repeat: no-repeat;
+  background-position: top left, bottom right;
+}
+.headtitle{
+  font-size: 35px;
+  font-weight: bold;
+}
+.secondtitle{
+font-size: 3.5em;
+font-weight: bold;
+}
+.paragraph{
+  font-size: 1.5em;
+}
+.ndbutton{
+  font-size: 1.7em;
+  padding: 10px;
+  gap: 20px;
+}
